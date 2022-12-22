@@ -1,6 +1,7 @@
 # Udacity-s-Bikeshare-Python-Project
 
 Code explained in Detail:
+
 How the program works:
 The code developed takes in raw input to create an interactive experience in the terminal that answers questions about the dataset. The experience is interactive because depending on a user's input, the answers to the questions will change! There are four questions that will change the answers:
 
